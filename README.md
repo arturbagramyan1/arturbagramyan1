@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**arturbagramyan1/arturbagramyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 Focused on backend development, with expertise in Python.
+- 👯 Open to collaboration on backend and tech projects.
+- 💬 Ask me about Python, or Gaming.
+- 🎮 I love shooters and ARPG games.
+- 🦀 Currently Learning Bash and Python
+---
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,django,linux,bash,vscode,)](https://skillicons.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

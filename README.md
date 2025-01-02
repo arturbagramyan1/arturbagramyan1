@@ -8,6 +8,6 @@
 - 🦀 Currently Learning Bash and Python
 ---
 ### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,django,linux,bash,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,linux,bash,vscode,git)](https://skillicons.dev)
 
 

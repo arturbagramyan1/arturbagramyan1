@@ -5,7 +5,5 @@
 </p>
 
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,django,linux,bash,vscode,git,js)](https://skillicons.dev)
 
 
